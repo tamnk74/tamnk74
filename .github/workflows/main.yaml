@@ -28,14 +28,10 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Update README.md
-        run: |-
-          git config --global user.email "khac.tam.94@gmail.com"
-          git config --global user.name "tamnk74"
-          git pull origin master
-          git add .
-          git commit -m "Updated README.md" || echo "No changes"
-          git push --force
-      # - name: Push new README.md
-      #   uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: tamnk74
+          author_email: khac.tam.94@gmail.com
+          message: "Update README"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
