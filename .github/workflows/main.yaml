@@ -34,7 +34,7 @@ jobs:
           git pull origin master
           git add .
           git commit -m "Updated README.md" || exit 0
-          git push
+          git push origin HEAD:master --force
       # - name: Push new README.md
       #   uses: mikeal/publish-to-github-action@master
       #   env:
