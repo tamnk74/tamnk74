@@ -72,8 +72,9 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Aug, 30, 2020 12:35 (123 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jul, 12, 2020 12:35 (166 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 30, 2020 09:18 (123 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jul, 12, 2020 09:18 (165 days to Lunar New Year)</p>
+
 
 <h3>Today's Quote</h3>
 
