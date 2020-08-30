@@ -31,7 +31,7 @@ jobs:
         run: |-
           git config --global user.email "khac.tam.94@gmail.com"
           git config --global user.name "tamnk74"
-          git pull
+          git pull origin master
           git add .
           git commit -m "Updated README.md" || exit 0
           git push
