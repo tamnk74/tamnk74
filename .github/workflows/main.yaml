@@ -1,0 +1,36 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.16.1"
+      - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Update README.md
+        run: |
+          git config --global user.email "khac.tam.94@gmail.com"
+          git config --global user.name "tamnk74"
+          git add .
+          git commit -m "Updated README.md" || echo "No changes to commit"
+          git push origin master
