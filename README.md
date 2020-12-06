@@ -37,6 +37,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b> Demo</b></td>
     </tr>
   </thead>
   <tbody>
@@ -46,6 +47,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tamnk74/blog-react"><b>Reactjs boilerplate</b></a></td>
@@ -53,6 +55,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/tamnk74/nuxtjs-blog"><b>Nuxtjs Sample</b></a></td>
@@ -60,6 +63,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
     </tr>
   </tbody>
 </table>
@@ -72,14 +76,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Aug, 30, 2020 09:18 (123 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jul, 12, 2020 09:18 (165 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Dec, 06, 2020 11:54 (25 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Oct, 22, 2020 11:54 (68 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</b></p>
-<p><i>Voltaire</i></p>
+<p><b>Many of life&#39;s failures are experienced by people who did not realize how close they were to success when they gave up.</b></p>
+<p><i>Thomas Edison</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
