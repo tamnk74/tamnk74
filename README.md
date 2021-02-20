@@ -6,6 +6,7 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express js" src="https://img.shields.io/badge/-Expressjs-43853f?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-43853d?color=%2300ADD8&label=Golang&logo=Go&logoColor=White&style=social" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -76,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Dec, 06, 2020 11:54 (25 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Oct, 22, 2020 11:54 (68 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Feb, 20, 2021 10:44 (315 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Jan, 09, 2021 10:44 (346 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Many of life&#39;s failures are experienced by people who did not realize how close they were to success when they gave up.</b></p>
-<p><i>Thomas Edison</i></p>
+<p><b>It is easy to sit up and take notice, What is difficult is getting up and taking action.</b></p>
+<p><i>Honore de Balzac</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
