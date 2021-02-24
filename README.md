@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Feb, 23, 2021 00:25 (311 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jan, 12, 2021 00:25 (343 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Feb, 24, 2021 00:25 (311 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jan, 13, 2021 00:25 (342 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>People who are crazy enough to think they can change the world, are the ones who do.</b></p>
-<p><i>Apple Computers</i></p>
+<p><b>Once your excuses are gone, you will simply have to settle for being awesome!</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
