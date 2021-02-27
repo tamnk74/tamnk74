@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Feb, 26, 2021 00:25 (309 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Jan, 15, 2021 00:25 (340 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Feb, 27, 2021 00:26 (308 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Jan, 16, 2021 00:26 (339 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Failure is the condiment that gives success its flavor.</b></p>
-<p><i>Truman Capote</i></p>
+<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
+<p><i>Jack Ma</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
