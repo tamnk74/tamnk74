@@ -77,14 +77,17 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Mar, 03, 2021 00:25 (303 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jan, 20, 2021 00:25 (335 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Mar, 04, 2021 00:26 (302 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jan, 21, 2021 00:26 (334 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you don&#39;t give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.</b></p>
+<p><i>Bruce Lee</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
