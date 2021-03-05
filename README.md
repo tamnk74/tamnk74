@@ -77,17 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 04, 2021 00:26 (302 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jan, 21, 2021 00:26 (334 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 05, 2021 00:26 (301 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jan, 22, 2021 00:26 (332 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.</b></p>
-<p><i>Bruce Lee</i></p>
+<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
+<p><i>Zaha Hadid</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
