@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Mar, 05, 2021 00:26 (301 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Jan, 22, 2021 00:26 (332 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Mar, 06, 2021 00:26 (300 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Jan, 23, 2021 00:26 (331 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
-<p><i>Zaha Hadid</i></p>
+<p><b>I think it&#39;s very important to have a feedback loop, where you&#39;re constantly thinking about what you&#39;ve done and how you could be doing it better. I think that&#39;s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.</b></p>
+<p><i>Elon Musk</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
