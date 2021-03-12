@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 11, 2021 00:26 (295 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jan, 28, 2021 00:26 (327 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 12, 2021 00:27 (294 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jan, 29, 2021 00:27 (326 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
-<p><i>Dale Carnegie</i></p>
+<p><b>Whether you think you can or think you can&#39;t, you&#39;re right..</b></p>
+<p><i>Henry Ford</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
