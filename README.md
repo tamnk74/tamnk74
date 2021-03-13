@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Mar, 12, 2021 00:27 (294 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Jan, 29, 2021 00:27 (326 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Mar, 13, 2021 00:26 (293 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Feb, 01, 2021 00:26 (325 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Whether you think you can or think you can&#39;t, you&#39;re right..</b></p>
-<p><i>Henry Ford</i></p>
+<p><b>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!</b></p>
+<p><i>Daireth Winehouse</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
