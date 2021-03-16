@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Mar, 15, 2021 00:27 (292 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Feb, 03, 2021 00:27 (323 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Mar, 16, 2021 00:26 (290 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Feb, 04, 2021 00:26 (322 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I am an optimist. It does not seem too much use being anything else..</b></p>
-<p><i>Winston Churchill</i></p>
+<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
+<p><i>Zaha Hadid</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
