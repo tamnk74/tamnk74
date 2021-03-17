@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Mar, 16, 2021 00:26 (290 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Feb, 04, 2021 00:26 (322 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Mar, 17, 2021 00:27 (289 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Feb, 05, 2021 00:27 (320 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
-<p><i>Zaha Hadid</i></p>
+<p><b>You will never win if you never begin.</b></p>
+<p><i>Helen Rowland</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
