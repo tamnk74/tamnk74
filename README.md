@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Mar, 17, 2021 00:27 (289 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Feb, 05, 2021 00:27 (320 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Mar, 18, 2021 00:27 (289 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Feb, 06, 2021 00:27 (320 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You will never win if you never begin.</b></p>
-<p><i>Helen Rowland</i></p>
+<p><b>A quitter never wins and a winner never quits</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
