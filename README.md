@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 18, 2021 00:27 (289 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Feb, 06, 2021 00:27 (320 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 19, 2021 00:28 (287 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Feb, 07, 2021 00:28 (318 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>A quitter never wins and a winner never quits</b></p>
-<p><i>Napoleon Hill</i></p>
+<p><b>There is nothing noble about being superior to some other man. The true nobility is in being superior to your previous self.</b></p>
+<p><i>Hindu Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
