@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Mar, 19, 2021 00:28 (287 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Feb, 07, 2021 00:28 (318 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Mar, 20, 2021 00:27 (286 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Feb, 08, 2021 00:27 (318 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>There is nothing noble about being superior to some other man. The true nobility is in being superior to your previous self.</b></p>
-<p><i>Hindu Proverb</i></p>
+<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
