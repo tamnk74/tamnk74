@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Mar, 27, 2021 00:10 (280 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Feb, 15, 2021 00:10 (311 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Mar, 28, 2021 00:10 (278 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Feb, 16, 2021 00:10 (310 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t the mountains ahead to climb that wear you out; it&#39;s the pebble in your shoe.</b></p>
-<p><i>Mohamad Ali</i></p>
+<p><b>Great things are done by a series of small things brought together.</b></p>
+<p><i>Vincent Van Gogh</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
