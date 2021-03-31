@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Mar, 30, 2021 00:10 (277 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Feb, 18, 2021 00:10 (308 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Mar, 31, 2021 00:08 (275 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Feb, 19, 2021 00:08 (306 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you can consciously let yourself get taken and see where you go, that&#39;s an exercise. That&#39;s discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.</b></p>
+<p><i>Charles Bukowski</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
