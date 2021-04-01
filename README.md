@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Mar, 31, 2021 00:08 (275 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Feb, 19, 2021 00:08 (306 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Apr, 01, 2021 00:11 (274 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Feb, 20, 2021 00:11 (306 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.</b></p>
-<p><i>Charles Bukowski</i></p>
+<p><b>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</b></p>
+<p><i>Isaac Lidsky</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
