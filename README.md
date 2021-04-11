@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Apr, 10, 2021 00:11 (266 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Mar, 01, 2021 00:11 (297 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Apr, 11, 2021 00:12 (265 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Mar, 02, 2021 00:12 (296 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning is not everything, but the effort to win is.</b></p>
-<p><i>Zig Ziglar</i></p>
+<p><b>You defeated me But you won&#39;t defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).</b></p>
+<p><i>Edmund Hillary</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
