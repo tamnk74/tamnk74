@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Apr, 12, 2021 00:11 (263 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Mar, 01, 2021 00:11 (294 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Apr, 13, 2021 00:12 (262 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Mar, 02, 2021 00:12 (294 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.</b></p>
-<p><i>Sheryl Sandberg</i></p>
+<p><b>Remove the temptation to settle for anything short of what you deserve.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
