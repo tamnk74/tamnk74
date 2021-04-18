@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Apr, 17, 2021 00:10 (258 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Mar, 06, 2021 00:10 (289 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Apr, 18, 2021 00:10 (257 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Mar, 07, 2021 00:10 (289 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Persistence is very important. You should not give up unless you are forced to give up.</b></p>
-<p><i>Elon Musk</i></p>
+<p><b>Perfection is not attainable, but if we chase perfection we can catch excellence..</b></p>
+<p><i>Vince Lombardi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
