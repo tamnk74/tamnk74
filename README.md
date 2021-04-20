@@ -77,13 +77,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Apr, 19, 2021 00:10 (256 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Mar, 08, 2021 00:10 (288 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Apr, 20, 2021 00:11 (255 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Mar, 09, 2021 00:11 (287 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Once your excuses are gone, you will simply have to settle for being awesome!</b></p>
+<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
