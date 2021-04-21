@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Apr, 20, 2021 00:11 (255 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Mar, 09, 2021 00:11 (287 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Apr, 21, 2021 00:10 (254 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Mar, 10, 2021 00:10 (286 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>If you&#39;re walking down the right path and you&#39;re willing to keep walking, eventually you&#39;ll make progress.</b></p>
+<p><i>Barack Obama</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
