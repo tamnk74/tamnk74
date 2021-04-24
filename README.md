@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Apr, 23, 2021 00:10 (252 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Mar, 12, 2021 00:10 (283 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Apr, 24, 2021 00:11 (251 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Mar, 13, 2021 00:11 (283 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you&#39;re not making mistakes, you&#39;re not taking risks, and that means you&#39;re not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.</b></p>
-<p><i>John W. Holt, Jr.</i></p>
+<p><b>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.</b></p>
+<p><i>Anuj Somany</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
