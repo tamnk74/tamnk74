@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Apr, 24, 2021 00:11 (251 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Mar, 13, 2021 00:11 (283 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Apr, 25, 2021 00:11 (250 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Mar, 14, 2021 00:11 (282 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.</b></p>
-<p><i>Anuj Somany</i></p>
+<p><b>Named must your fear be before banish it you can.</b></p>
+<p><i>Yoda</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
