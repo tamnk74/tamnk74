@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Apr, 27, 2021 00:10 (248 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Mar, 16, 2021 00:10 (280 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Apr, 28, 2021 00:10 (247 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Mar, 17, 2021 00:10 (279 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
-<p><i>Greg Child</i></p>
+<p><b>The determination to win is the better part of winning.</b></p>
+<p><i>Daisaku Ikeda</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
