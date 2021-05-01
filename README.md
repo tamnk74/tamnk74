@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Apr, 30, 2021 00:41 (246 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Mar, 19, 2021 00:41 (277 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 01, 2021 00:41 (244 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Mar, 20, 2021 00:41 (276 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b></b></p>
-<p><i></i></p>
+<p><b>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
