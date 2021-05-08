@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday May, 07, 2021 00:32 (239 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Mar, 26, 2021 00:32 (270 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 08, 2021 00:32 (237 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Mar, 27, 2021 00:32 (269 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Twenty years from now you will be more disappointed by the things that you didn&#39;t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.</b></p>
-<p><i>Mark Twain</i></p>
+<p><b>I know for sure that what we dwell on is who we become.</b></p>
+<p><i>Oprah Winfrey</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
