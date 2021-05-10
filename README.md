@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 09, 2021 00:35 (236 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Mar, 28, 2021 00:35 (268 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday May, 10, 2021 00:33 (235 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Mar, 29, 2021 00:33 (266 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.</b></p>
-<p><i>Kevin Turner </i></p>
+<p><b>If you don&#39;t give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</b></p>
+<p><i>Jack Ma</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
