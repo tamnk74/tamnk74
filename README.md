@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday May, 10, 2021 00:33 (235 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Mar, 29, 2021 00:33 (266 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday May, 11, 2021 00:33 (234 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Mar, 30, 2021 00:33 (266 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you don&#39;t give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn&#39;t rehearsal people. This is YOUR life.</b></p>
+<p><i>Dale Patridge</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
