@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday May, 12, 2021 00:34 (233 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Apr, 01, 2021 00:34 (264 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday May, 13, 2021 00:42 (232 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 02, 2021 00:42 (264 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You should never view your challenges as a disadvantage. Instead, it&#39;s important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</b></p>
-<p><i>Michelle Obama</i></p>
+<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
+<p><i>Bill Murray</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
