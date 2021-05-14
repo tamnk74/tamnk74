@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday May, 13, 2021 00:42 (232 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 02, 2021 00:42 (264 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday May, 14, 2021 00:44 (231 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Apr, 03, 2021 00:44 (263 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>Do not let what you cannot do interfere with what you can do.</b></p>
+<p><i>John Wooden</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
