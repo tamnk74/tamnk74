@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday May, 14, 2021 00:44 (231 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Apr, 03, 2021 00:44 (263 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 15, 2021 00:41 (231 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Apr, 04, 2021 00:41 (262 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Do not let what you cannot do interfere with what you can do.</b></p>
-<p><i>John Wooden</i></p>
+<p><b>I am an optimist. It does not seem too much use being anything else..</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
