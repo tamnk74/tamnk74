@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday May, 17, 2021 00:41 (229 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Apr, 06, 2021 00:41 (260 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday May, 18, 2021 00:46 (227 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Apr, 07, 2021 00:46 (258 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The things you learn in maturity aren&#39;t simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</b></p>
-<p><i>John Gardner</i></p>
+<p><b>Time to improve is limited. The clock is always on and doesn&#39;t care if you don&#39;t feel like it. Someone else does and they&#39;re passing you by.</b></p>
+<p><i>William James Moore</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
