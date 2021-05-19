@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday May, 18, 2021 00:46 (227 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Apr, 07, 2021 00:46 (258 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday May, 19, 2021 00:41 (227 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Apr, 08, 2021 00:41 (258 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Time to improve is limited. The clock is always on and doesn&#39;t care if you don&#39;t feel like it. Someone else does and they&#39;re passing you by.</b></p>
-<p><i>William James Moore</i></p>
+<p><b>You make a living by what you earn; you make a life by what you give.</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
