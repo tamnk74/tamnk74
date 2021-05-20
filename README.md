@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday May, 19, 2021 00:41 (227 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Apr, 08, 2021 00:41 (258 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday May, 20, 2021 00:38 (226 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 09, 2021 00:38 (257 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You make a living by what you earn; you make a life by what you give.</b></p>
-<p><i>Winston Churchill</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
