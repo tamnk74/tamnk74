@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday May, 21, 2021 00:43 (225 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Apr, 10, 2021 00:43 (256 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 22, 2021 00:42 (224 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Apr, 11, 2021 00:42 (255 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.</b></p>
-<p><i>Napoleon Bonaparte</i></p>
+<p><b>A man can suffer to bring a group of people to success, not the other way.</b></p>
+<p><i>Ganesh</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
