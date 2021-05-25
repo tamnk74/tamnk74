@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday May, 24, 2021 00:45 (222 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Apr, 13, 2021 00:45 (253 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday May, 25, 2021 00:44 (220 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Apr, 14, 2021 00:44 (252 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You are very powerful, provided you know how powerful you are.</b></p>
-<p><i>Yogi Bhajan</i></p>
+<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
+<p><i>Zaha Hadid</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
