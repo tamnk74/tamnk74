@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday May, 26, 2021 00:55 (220 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Apr, 15, 2021 00:55 (251 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday May, 27, 2021 00:57 (218 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 16, 2021 00:57 (250 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</b></p>
-<p><i>Barack Obama</i></p>
+<p><b>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</b></p>
+<p><i>Isaac Lidsky</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
