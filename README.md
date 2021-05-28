@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday May, 27, 2021 00:57 (218 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 16, 2021 00:57 (250 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday May, 28, 2021 01:04 (217 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Apr, 17, 2021 01:04 (248 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</b></p>
-<p><i>Isaac Lidsky</i></p>
+<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
+<p><i>Japanese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
