@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday May, 28, 2021 01:04 (217 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Apr, 17, 2021 01:04 (248 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 29, 2021 01:16 (216 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Apr, 18, 2021 01:16 (248 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
-<p><i>Japanese Proverb</i></p>
+<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
+<p><i>Jack Ma</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
