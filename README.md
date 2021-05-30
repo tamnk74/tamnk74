@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday May, 29, 2021 01:16 (216 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Apr, 18, 2021 01:16 (248 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday May, 30, 2021 01:25 (215 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Apr, 19, 2021 01:25 (247 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
