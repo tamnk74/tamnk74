@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 30, 2021 01:25 (215 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Apr, 19, 2021 01:25 (247 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday May, 31, 2021 01:37 (214 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Apr, 20, 2021 01:37 (246 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When you win, say nothing. When you lose, say less.</b></p>
-<p><i>Paul Brown</i></p>
+<p><b>We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light</b></p>
+<p><i>Mary Dunbar</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
