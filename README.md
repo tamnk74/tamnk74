@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jun, 08, 2021 00:59 (207 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Apr, 28, 2021 00:59 (238 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jun, 09, 2021 00:40 (205 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Apr, 29, 2021 00:40 (237 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Sometimes you climb out of bed in the morning and you think, I&#39;m not going to make it, but you laugh inside - remembering all the times you&#39;ve felt that way.</b></p>
-<p><i>Charles Bukowski</i></p>
+<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
+<p><i>Japanese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
