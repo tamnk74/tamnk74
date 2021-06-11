@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jun, 10, 2021 00:39 (204 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday May, 01, 2021 00:39 (235 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jun, 11, 2021 00:36 (203 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday May, 02, 2021 00:36 (235 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
-<p><i>Tom Hanks</i></p>
+<p><b>People rise to the occasion without hesitation when they feel inspired and challenged.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
