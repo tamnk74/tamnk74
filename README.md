@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jun, 13, 2021 00:38 (201 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday May, 04, 2021 00:38 (232 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jun, 14, 2021 00:34 (200 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday May, 05, 2021 00:34 (231 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You must be the change you want to see in the world..</b></p>
-<p><i>M.K. Gandhi</i></p>
+<p><b>Do the best you can until you know better. Then when you know better, do better.</b></p>
+<p><i>Maya Angelou</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
