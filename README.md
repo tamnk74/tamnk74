@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jun, 15, 2021 00:36 (200 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday May, 06, 2021 00:36 (231 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jun, 16, 2021 00:36 (198 days to New Year)</p>
+<p><b>Lunar date: </b> Friday May, 07, 2021 00:36 (230 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>He who is not courageous enough to take risks will accomplish nothing in life.</b></p>
-<p><i>Mohamad Ali</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
