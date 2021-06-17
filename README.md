@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jun, 16, 2021 00:36 (198 days to New Year)</p>
-<p><b>Lunar date: </b> Friday May, 07, 2021 00:36 (230 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jun, 17, 2021 00:34 (197 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday May, 08, 2021 00:34 (228 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
+<p><i>Tom Hanks</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
