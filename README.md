@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jun, 17, 2021 00:34 (197 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday May, 08, 2021 00:34 (228 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jun, 18, 2021 00:35 (196 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday May, 09, 2021 00:35 (228 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
-<p><i>Tom Hanks</i></p>
+<p><b>If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.</b></p>
+<p><i>Kevin Turner </i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
