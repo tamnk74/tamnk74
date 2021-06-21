@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jun, 20, 2021 00:37 (194 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday May, 11, 2021 00:37 (226 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jun, 21, 2021 00:37 (194 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday May, 12, 2021 00:37 (225 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you&#39;re changing the world, you&#39;re working on important things. You&#39;re excited to get up in the morning.</b></p>
-<p><i>Larry Page</i></p>
+<p><b>Winning isn&#39;t everything.. It&#39;s the only thing.</b></p>
+<p><i>Vincent van Gogh</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
