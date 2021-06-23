@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jun, 22, 2021 00:34 (193 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday May, 13, 2021 00:34 (224 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jun, 23, 2021 00:34 (191 days to New Year)</p>
+<p><b>Lunar date: </b> Friday May, 14, 2021 00:34 (223 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
-<p><i>John Gardner</i></p>
+<p><b>You must be the change you want to see in the world..</b></p>
+<p><i>M.K. Gandhi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
