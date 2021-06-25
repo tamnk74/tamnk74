@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jun, 24, 2021 00:28 (190 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday May, 15, 2021 00:28 (222 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jun, 25, 2021 00:40 (189 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday May, 16, 2021 00:40 (221 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
-<p><i>Zaha Hadid</i></p>
+<p><b>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</b></p>
+<p><i>Barack Obama</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
