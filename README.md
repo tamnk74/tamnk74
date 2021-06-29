@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jun, 28, 2021 00:38 (186 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday May, 19, 2021 00:38 (217 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jun, 29, 2021 00:36 (185 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday May, 20, 2021 00:36 (216 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Great things are done by a series of small things brought together.</b></p>
-<p><i>Vincent Van Gogh</i></p>
+<p><b>You should never view your challenges as a disadvantage. Instead, it&#39;s important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</b></p>
+<p><i>Michelle Obama</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
