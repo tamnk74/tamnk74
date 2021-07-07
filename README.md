@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jul, 06, 2021 00:37 (179 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday May, 27, 2021 00:37 (210 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jul, 07, 2021 00:37 (178 days to New Year)</p>
+<p><b>Lunar date: </b> Friday May, 28, 2021 00:37 (209 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
-<p><i>Martina Navratilova</i></p>
+<p><b>I always advice people - Don&#39;t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can&#39;t possibly lose.</b></p>
+<p><i>Steve Jobs</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
