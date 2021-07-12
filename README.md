@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jul, 11, 2021 00:40 (174 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jun, 02, 2021 00:40 (205 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jul, 12, 2021 00:35 (172 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jun, 03, 2021 00:35 (204 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>There&#39;s such a thin line between winning and losing.</b></p>
-<p><i>John R. Tunis</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
