@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jul, 12, 2021 00:35 (172 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jun, 03, 2021 00:35 (204 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jul, 13, 2021 00:38 (172 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jun, 04, 2021 00:38 (203 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!</b></p>
+<p><i>Larry Page</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
