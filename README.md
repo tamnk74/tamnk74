@@ -77,14 +77,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jul, 15, 2021 00:36 (169 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jun, 06, 2021 00:36 (201 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jul, 16, 2021 00:37 (168 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Jun, 07, 2021 00:37 (199 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
+<p><i>Henry Cloud</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
