@@ -95,8 +95,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jul, 17, 2021 11:34 (167 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jun, 08, 2021 11:34 (199 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jul, 17, 2021 04:36 (167 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jun, 08, 2021 04:36 (198 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
