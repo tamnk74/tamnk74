@@ -5,12 +5,14 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express js" src="https://img.shields.io/badge/-Expressjs-43853f?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-43853d?color=%2300ADD8&label=Golang&logo=Go&logoColor=White&style=social" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Express js" src="https://img.shields.io/badge/-Expressjs-43853f?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
+  <img alt="React query" src="https://img.shields.io/badge/-React%20Query-ffffff?style=flat-square&logo=redux&logoColor=black" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-Vuejs-green?style=flat-square&logo=vuejs&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxtjs-darkgreen?style=flat-square&logo=nuxtjs&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -43,6 +45,22 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/tamnk74/nestjs-boilerplate"><b>Nestjs Postgresql Boilerplate</b></a></td>
+      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tamnk74/go-fiber-gorm-mysql-boilerplate"><b>Go Fiber Mysql Boilerplate</b></a></td>
+      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/tamnk74/expressjs_mongodb_boilerplate"><b>Express Mongodb Boilerplate</b></a></td>
       <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
@@ -51,7 +69,7 @@
       <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tamnk74/blog-react"><b>Reactjs boilerplate</b></a></td>
+      <td><a href="https://github.com/tamnk74/blog-react"><b>Reactjs Sample</b></a></td>
       <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
@@ -77,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jul, 16, 2021 00:37 (168 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jun, 07, 2021 00:37 (199 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jul, 17, 2021 11:34 (167 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jun, 08, 2021 11:34 (199 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
-<p><i>Henry Cloud</i></p>
+<p><b>Twenty years from now you will be more disappointed by the things that you didn&#39;t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.</b></p>
+<p><i>Mark Twain</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
