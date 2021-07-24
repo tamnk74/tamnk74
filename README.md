@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jul, 23, 2021 00:37 (162 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jun, 14, 2021 00:37 (193 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jul, 24, 2021 00:35 (160 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jun, 15, 2021 00:35 (192 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you want to test your memory, try to recall what you were worrying about one year ago today.</b></p>
-<p><i>E. Joseph Cossman</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
