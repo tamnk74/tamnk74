@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jul, 25, 2021 00:38 (160 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jun, 16, 2021 00:38 (191 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jul, 26, 2021 00:36 (158 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jun, 17, 2021 00:36 (189 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning isn&#39;t everything.. It&#39;s the only thing.</b></p>
-<p><i>Vincent van Gogh</i></p>
+<p><b>Luck is a dividend of sweat. The more you sweat, the luckier you get</b></p>
+<p><i>Ray Kroc</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
