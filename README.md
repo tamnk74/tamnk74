@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jul, 28, 2021 00:38 (157 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jun, 19, 2021 00:38 (188 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jul, 29, 2021 00:35 (155 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jun, 20, 2021 00:35 (186 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When you win, say nothing. When you lose, say less.</b></p>
-<p><i>Paul Brown</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
