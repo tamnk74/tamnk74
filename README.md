@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jul, 31, 2021 00:37 (153 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jun, 22, 2021 00:37 (185 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 01, 2021 00:42 (153 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jun, 23, 2021 00:42 (184 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Time to improve is limited. The clock is always on and doesn&#39;t care if you don&#39;t feel like it. Someone else does and they&#39;re passing you by.</b></p>
-<p><i>William James Moore</i></p>
+<p><b>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
