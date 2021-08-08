@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Aug, 07, 2021 00:33 (147 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jun, 29, 2021 00:33 (178 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 08, 2021 00:37 (146 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jul, 01, 2021 00:37 (177 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The last time doesn&#39;t exist. It&#39;s only this time. And everything is going to be different this time. There&#39;s only now.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
+<p><i>Japanese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
