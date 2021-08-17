@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Aug, 16, 2021 00:36 (138 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Jul, 09, 2021 00:36 (169 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Aug, 17, 2021 00:37 (136 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Jul, 10, 2021 00:37 (168 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it&#39;s really silly to be afraid of a lack of photons. Then I wasn&#39;t afraid of the dark anymore after that.</b></p>
-<p><i>Elon Musk</i></p>
+<p><b>You will never win if you never begin.</b></p>
+<p><i>Helen Rowland</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
