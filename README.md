@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Aug, 18, 2021 00:36 (135 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jul, 11, 2021 00:36 (167 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Aug, 19, 2021 00:31 (135 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Jul, 12, 2021 00:31 (166 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
-<p><i>Dale Carnegie</i></p>
+<p><b>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</b></p>
+<p><i>Jean Shinoda Bolen</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
