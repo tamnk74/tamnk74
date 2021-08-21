@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Aug, 20, 2021 00:36 (133 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jul, 13, 2021 00:36 (165 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Aug, 21, 2021 00:36 (132 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jul, 14, 2021 00:36 (164 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Persistence is very important. You should not give up unless you are forced to give up.</b></p>
-<p><i>Elon Musk</i></p>
+<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
+<p><i>John Muir</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
