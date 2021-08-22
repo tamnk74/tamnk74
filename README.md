@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Aug, 21, 2021 00:36 (132 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jul, 14, 2021 00:36 (164 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 22, 2021 00:35 (132 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jul, 15, 2021 00:35 (163 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
-<p><i>John Muir</i></p>
+<p><b>You should never view your challenges as a disadvantage. Instead, it&#39;s important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</b></p>
+<p><i>Michelle Obama</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
