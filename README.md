@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Aug, 22, 2021 00:35 (132 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jul, 15, 2021 00:35 (163 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Aug, 23, 2021 00:34 (130 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jul, 16, 2021 00:34 (162 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You should never view your challenges as a disadvantage. Instead, it&#39;s important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</b></p>
-<p><i>Michelle Obama</i></p>
+<p><b>If you don&#39;t have confidence, you&#39;ll always find a way not to win</b></p>
+<p><i>Carl Lewis</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
