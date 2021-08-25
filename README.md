@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Aug, 24, 2021 00:34 (129 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jul, 17, 2021 00:34 (161 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Aug, 25, 2021 00:37 (128 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jul, 18, 2021 00:37 (159 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
-<p><i>Greg Child</i></p>
+<p><b>Your life does not get better by chance. It gets better by change.</b></p>
+<p><i>Jim Rohn</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
