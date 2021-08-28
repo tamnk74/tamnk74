@@ -95,13 +95,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Aug, 27, 2021 00:40 (126 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jul, 20, 2021 00:40 (158 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Aug, 28, 2021 00:35 (125 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jul, 21, 2021 00:35 (157 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><b>We don&#39;t have to do all of it alone. We were never meant to.</b></p>
 <p><i>Brene Brown</i></p>
 
 <!--
