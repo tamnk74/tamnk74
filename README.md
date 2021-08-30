@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Aug, 29, 2021 00:39 (124 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jul, 22, 2021 00:39 (156 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Aug, 30, 2021 00:36 (123 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jul, 23, 2021 00:36 (154 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>A show of confidence raises the bar</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
