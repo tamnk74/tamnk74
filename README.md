@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Sep, 01, 2021 00:40 (121 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jul, 25, 2021 00:40 (153 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Sep, 02, 2021 00:37 (121 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Jul, 26, 2021 00:37 (152 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
