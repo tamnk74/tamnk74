@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Sep, 03, 2021 00:37 (119 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jul, 27, 2021 00:37 (151 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Sep, 04, 2021 00:37 (118 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jul, 28, 2021 00:37 (150 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When you win, say nothing. When you lose, say less.</b></p>
-<p><i>Paul Brown</i></p>
+<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
+<p><i>Japanese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
