@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Sep, 08, 2021 00:36 (114 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Aug, 02, 2021 00:36 (145 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Sep, 09, 2021 00:39 (113 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 03, 2021 00:39 (145 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.</b></p>
+<p><i>Larry Page</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
