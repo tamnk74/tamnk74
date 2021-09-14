@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Sep, 13, 2021 00:41 (109 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Aug, 07, 2021 00:41 (141 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Sep, 14, 2021 00:40 (109 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Aug, 08, 2021 00:40 (140 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Sustenance! Your health is always the best prescription.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>The real opportunity for success lies within the person and not in the job.</b></p>
+<p><i>Zig Ziglar</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
