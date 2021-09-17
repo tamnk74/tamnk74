@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Sep, 16, 2021 00:39 (106 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Aug, 10, 2021 00:39 (138 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Sep, 17, 2021 00:42 (105 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Aug, 11, 2021 00:42 (136 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
-<p><i>Japanese Proverb</i></p>
+<p><b>If you don&#39;t have confidence, you&#39;ll always find a way not to win</b></p>
+<p><i>Carl Lewis</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
