@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Sep, 19, 2021 00:39 (103 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Aug, 13, 2021 00:39 (134 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Sep, 20, 2021 00:42 (103 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Aug, 14, 2021 00:42 (134 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Do the best you can until you know better. Then when you know better, do better.</b></p>
-<p><i>Maya Angelou</i></p>
+<p><b>Effort only fully releases its reward after a person refuses to quit.</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
