@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Sep, 20, 2021 00:42 (103 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Aug, 14, 2021 00:42 (134 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Sep, 21, 2021 00:39 (102 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Aug, 15, 2021 00:39 (133 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Effort only fully releases its reward after a person refuses to quit.</b></p>
-<p><i>Napoleon Hill</i></p>
+<p><b>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</b></p>
+<p><i>Jean Shinoda Bolen</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
