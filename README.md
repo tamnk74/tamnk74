@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Sep, 22, 2021 00:38 (101 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Aug, 16, 2021 00:38 (132 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Sep, 23, 2021 00:41 (99 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 17, 2021 00:41 (131 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning is nice if you don&#39;t lose your integrity in the process.</b></p>
-<p><i>Arnold Horshak</i></p>
+<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
+<p><i>John Gardner</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
