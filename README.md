@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Sep, 23, 2021 00:41 (99 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Aug, 17, 2021 00:41 (131 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Sep, 24, 2021 00:38 (98 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Aug, 18, 2021 00:38 (130 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
-<p><i>John Gardner</i></p>
+<p><b>I always advice people - Don&#39;t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can&#39;t possibly lose.</b></p>
+<p><i>Steve Jobs</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
