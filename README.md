@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Sep, 28, 2021 00:40 (94 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Aug, 22, 2021 00:40 (126 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Sep, 29, 2021 00:38 (93 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Aug, 23, 2021 00:38 (125 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Don&#39;t be tempted to break momentum-work through it.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</b></p>
+<p><i>Charles F. Kettering</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
