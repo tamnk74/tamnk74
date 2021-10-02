@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 01, 2021 00:42 (91 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Aug, 25, 2021 00:42 (122 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 02, 2021 00:39 (90 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Aug, 26, 2021 00:39 (122 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
