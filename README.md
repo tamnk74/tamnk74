@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 08, 2021 00:43 (85 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Sep, 03, 2021 00:43 (116 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 09, 2021 00:38 (84 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Sep, 04, 2021 00:38 (115 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</b></p>
-<p><i>Charles F. Kettering</i></p>
+<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
+<p><i>Japanese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
