@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Oct, 09, 2021 00:38 (84 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Sep, 04, 2021 00:38 (115 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Oct, 10, 2021 00:41 (83 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Sep, 05, 2021 00:41 (114 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
-<p><i>Japanese Proverb</i></p>
+<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
+<p><i>Dale Carnegie</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
