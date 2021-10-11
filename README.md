@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Oct, 10, 2021 00:41 (83 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Sep, 05, 2021 00:41 (114 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Oct, 11, 2021 00:41 (81 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Sep, 06, 2021 00:41 (113 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
-<p><i>Dale Carnegie</i></p>
+<p><b>Remember that you are very special, no one can play your role better than you.</b></p>
+<p><i>Damayanti Patra</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
