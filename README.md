@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Oct, 12, 2021 00:43 (81 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Sep, 07, 2021 00:43 (112 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Oct, 13, 2021 00:40 (80 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Sep, 08, 2021 00:40 (111 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you don&#39;t have confidence, you&#39;ll always find a way not to win</b></p>
-<p><i>Carl Lewis</i></p>
+<p><b>A show of confidence raises the bar</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
