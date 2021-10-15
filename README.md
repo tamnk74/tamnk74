@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Oct, 14, 2021 00:38 (78 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 09, 2021 00:38 (110 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Oct, 15, 2021 00:42 (77 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Sep, 10, 2021 00:42 (108 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</b></p>
-<p><i>Jean Shinoda Bolen</i></p>
+<p><b>The real opportunity for success lies within the person and not in the job.</b></p>
+<p><i>Zig Ziglar</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
