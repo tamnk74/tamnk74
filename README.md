@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 15, 2021 00:42 (77 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Sep, 10, 2021 00:42 (108 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 16, 2021 00:44 (76 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Sep, 11, 2021 00:44 (108 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The real opportunity for success lies within the person and not in the job.</b></p>
-<p><i>Zig Ziglar</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
