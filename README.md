@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Oct, 17, 2021 00:40 (75 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Sep, 12, 2021 00:40 (107 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Oct, 18, 2021 00:48 (74 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Sep, 13, 2021 00:48 (106 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Logic will get you from A to B. Imagination will take you everywhere.</b></p>
-<p><i>Albert Einstein</i></p>
+<p><b>Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn&#39;t rehearsal people. This is YOUR life.</b></p>
+<p><i>Dale Patridge</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
