@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Oct, 18, 2021 00:48 (74 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Sep, 13, 2021 00:48 (106 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Oct, 19, 2021 00:41 (73 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Sep, 14, 2021 00:41 (104 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn&#39;t rehearsal people. This is YOUR life.</b></p>
-<p><i>Dale Patridge</i></p>
+<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
+<p><i>Greg Child</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
