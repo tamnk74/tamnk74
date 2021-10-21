@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Oct, 20, 2021 00:41 (72 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Sep, 15, 2021 00:41 (104 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Oct, 21, 2021 00:46 (72 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Sep, 16, 2021 00:46 (103 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your life does not get better by chance. It gets better by change.</b></p>
-<p><i>Jim Rohn</i></p>
+<p><b>Effort only fully releases its reward after a person refuses to quit.</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
