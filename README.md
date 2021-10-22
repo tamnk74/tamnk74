@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Oct, 21, 2021 00:46 (72 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 16, 2021 00:46 (103 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Oct, 22, 2021 00:45 (71 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Sep, 17, 2021 00:45 (102 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Effort only fully releases its reward after a person refuses to quit.</b></p>
-<p><i>Napoleon Hill</i></p>
+<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
+<p><i>John Gardner</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
