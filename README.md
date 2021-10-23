@@ -95,13 +95,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 22, 2021 00:45 (71 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Sep, 17, 2021 00:45 (102 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 23, 2021 00:43 (69 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Sep, 18, 2021 00:43 (101 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
+<p><b>The things you learn in maturity aren&#39;t simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</b></p>
 <p><i>John Gardner</i></p>
 
 <!--
