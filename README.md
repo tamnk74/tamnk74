@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Oct, 23, 2021 00:43 (69 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Sep, 18, 2021 00:43 (101 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Oct, 24, 2021 00:40 (68 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Sep, 19, 2021 00:40 (99 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The things you learn in maturity aren&#39;t simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</b></p>
-<p><i>John Gardner</i></p>
+<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
+<p><i>John Muir</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
