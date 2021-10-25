@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Oct, 24, 2021 00:40 (68 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Sep, 19, 2021 00:40 (99 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Oct, 25, 2021 00:42 (67 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Sep, 20, 2021 00:42 (99 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
-<p><i>John Muir</i></p>
+<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
+<p><i>Martina Navratilova</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
