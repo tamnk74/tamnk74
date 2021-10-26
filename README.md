@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Oct, 25, 2021 00:42 (67 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Sep, 20, 2021 00:42 (99 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Oct, 26, 2021 00:38 (66 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Sep, 21, 2021 00:38 (97 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
-<p><i>Martina Navratilova</i></p>
+<p><b>If you have dreams it is your responsibility to make them happen.</b></p>
+<p><i>Bel Pesce</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
