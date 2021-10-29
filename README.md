@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Oct, 28, 2021 00:39 (64 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 23, 2021 00:39 (95 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Oct, 29, 2021 00:37 (63 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Sep, 24, 2021 00:37 (95 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You defeated me But you won&#39;t defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).</b></p>
-<p><i>Edmund Hillary</i></p>
+<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
+<p><i>Niccolo Machiavelli</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
