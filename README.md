@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 01, 2021 00:41 (60 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Sep, 27, 2021 00:41 (92 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 02, 2021 00:42 (60 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Sep, 28, 2021 00:42 (91 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You know what it&#39;s like to wake up in the middle of the night with a vivid dream? And you know that if you don&#39;t have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it&#39;s important to wake up and stop dreaming. When a really great dream shows up, grab it.</b></p>
-<p><i>Larry Page</i></p>
+<p><b>The man who removes a mountain begins by carrying away small stones..</b></p>
+<p><i>Chinese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
