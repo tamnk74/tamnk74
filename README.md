@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Nov, 02, 2021 00:42 (60 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Sep, 28, 2021 00:42 (91 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Nov, 03, 2021 00:39 (58 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Sep, 29, 2021 00:39 (89 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The man who removes a mountain begins by carrying away small stones..</b></p>
-<p><i>Chinese Proverb</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
