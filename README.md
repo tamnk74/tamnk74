@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Nov, 04, 2021 00:39 (57 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 30, 2021 00:39 (89 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Nov, 05, 2021 00:39 (57 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Oct, 01, 2021 00:39 (88 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>You will never win if you never begin.</b></p>
+<p><i>Helen Rowland</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
