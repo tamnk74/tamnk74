@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Nov, 05, 2021 00:39 (57 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Oct, 01, 2021 00:39 (88 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Nov, 06, 2021 00:38 (56 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Oct, 02, 2021 00:38 (87 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You will never win if you never begin.</b></p>
-<p><i>Helen Rowland</i></p>
+<p><b>Win any way as long as you can get away with it. Nice guys finish last.</b></p>
+<p><i>Leo Durocher</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
