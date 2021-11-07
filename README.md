@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Nov, 06, 2021 00:38 (56 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Oct, 02, 2021 00:38 (87 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Nov, 07, 2021 00:40 (55 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Oct, 03, 2021 00:40 (86 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Win any way as long as you can get away with it. Nice guys finish last.</b></p>
-<p><i>Leo Durocher</i></p>
+<p><b>The things you learn in maturity aren&#39;t simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</b></p>
+<p><i>John Gardner</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
