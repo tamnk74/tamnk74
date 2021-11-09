@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 08, 2021 00:40 (53 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Oct, 04, 2021 00:40 (85 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 09, 2021 00:40 (53 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Oct, 05, 2021 00:40 (84 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>People rise to the occasion without hesitation when they feel inspired and challenged.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
+<p><i>John Gardner</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
