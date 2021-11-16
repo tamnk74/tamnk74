@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 15, 2021 00:39 (47 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Oct, 11, 2021 00:39 (78 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 16, 2021 00:40 (46 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Oct, 12, 2021 00:40 (77 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning isn&#39;t everything.. It&#39;s the only thing.</b></p>
-<p><i>Vincent van Gogh</i></p>
+<p><b>People who are crazy enough to think they can change the world, are the ones who do.</b></p>
+<p><i>Apple Computers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
