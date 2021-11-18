@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Nov, 17, 2021 00:39 (44 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Oct, 13, 2021 00:39 (75 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Nov, 18, 2021 00:40 (43 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Oct, 14, 2021 00:40 (74 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you want to test your memory, try to recall what you were worrying about one year ago today.</b></p>
-<p><i>E. Joseph Cossman</i></p>
+<p><b>What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!</b></p>
+<p><i>Larry Page</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
