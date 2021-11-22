@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Nov, 21, 2021 00:41 (40 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Oct, 17, 2021 00:41 (72 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Nov, 22, 2021 00:40 (40 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Oct, 18, 2021 00:40 (71 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vision without action is daydream. Action without vision is nightmare..</b></p>
-<p><i>Japanese Proverb</i></p>
+<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
+<p><i>Tom Hanks</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
