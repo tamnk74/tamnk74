@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 22, 2021 00:40 (40 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Oct, 18, 2021 00:40 (71 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 23, 2021 00:39 (38 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Oct, 19, 2021 00:39 (70 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
-<p><i>Tom Hanks</i></p>
+<p><b>We don&#39;t have to do all of it alone. We were never meant to.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
