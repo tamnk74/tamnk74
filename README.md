@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Nov, 24, 2021 00:40 (37 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Oct, 20, 2021 00:40 (69 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Nov, 25, 2021 00:41 (36 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Oct, 21, 2021 00:41 (68 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</b></p>
-<p><i>Sally Blount</i></p>
+<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
+<p><i>John Muir</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
