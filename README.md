@@ -95,13 +95,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Nov, 28, 2021 00:41 (33 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Oct, 24, 2021 00:41 (65 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Nov, 29, 2021 00:40 (32 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Oct, 25, 2021 00:40 (64 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</b></p>
+<p><b>Don&#39;t be tempted to break momentum-work through it.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
