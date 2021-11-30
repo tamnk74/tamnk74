@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 29, 2021 00:40 (32 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Oct, 25, 2021 00:40 (64 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 30, 2021 00:42 (32 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Oct, 26, 2021 00:42 (63 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Don&#39;t be tempted to break momentum-work through it.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Luck is a dividend of sweat. The more you sweat, the luckier you get</b></p>
+<p><i>Ray Kroc</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
