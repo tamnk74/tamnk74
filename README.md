@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Dec, 03, 2021 00:40 (28 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Oct, 29, 2021 00:40 (60 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Dec, 04, 2021 00:40 (27 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Nov, 01, 2021 00:40 (58 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.</b></p>
-<p><i>Stephen Richards</i></p>
+<p><b>Perfection is not attainable, but if we chase perfection we can catch excellence..</b></p>
+<p><i>Vince Lombardi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
