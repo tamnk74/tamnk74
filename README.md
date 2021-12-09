@@ -95,8 +95,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 08, 2021 00:44 (24 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Nov, 05, 2021 00:44 (55 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 09, 2021 00:42 (23 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Nov, 06, 2021 00:42 (54 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
