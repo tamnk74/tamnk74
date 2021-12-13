@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Dec, 12, 2021 00:44 (19 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Nov, 09, 2021 00:44 (51 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Dec, 13, 2021 00:42 (19 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Nov, 10, 2021 00:42 (50 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you don&#39;t have confidence, you&#39;ll always find a way not to win</b></p>
-<p><i>Carl Lewis</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
