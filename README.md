@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Dec, 18, 2021 00:44 (14 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Nov, 15, 2021 00:44 (45 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Dec, 19, 2021 00:46 (13 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Nov, 16, 2021 00:46 (44 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
-<p><i>Martina Navratilova</i></p>
+<p><b>We don&#39;t have to do all of it alone. We were never meant to.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
