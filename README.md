@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Dec, 19, 2021 00:46 (13 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Nov, 16, 2021 00:46 (44 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Dec, 20, 2021 00:43 (12 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Nov, 17, 2021 00:43 (43 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>We don&#39;t have to do all of it alone. We were never meant to.</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>Winning is nice if you don&#39;t lose your integrity in the process.</b></p>
+<p><i>Arnold Horshak</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
