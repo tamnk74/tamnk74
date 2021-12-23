@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 22, 2021 00:44 (10 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Nov, 19, 2021 00:44 (41 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 23, 2021 00:43 (8 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Nov, 20, 2021 00:43 (40 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The journey of a thousand miles begins with one step.</b></p>
-<p><i>Lao Tzu</i></p>
+<p><b>A quitter never wins and a winner never quits</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
