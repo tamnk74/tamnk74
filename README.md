@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Dec, 23, 2021 00:43 (8 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Nov, 20, 2021 00:43 (40 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Dec, 24, 2021 00:42 (8 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Nov, 21, 2021 00:42 (39 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>A quitter never wins and a winner never quits</b></p>
-<p><i>Napoleon Hill</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
