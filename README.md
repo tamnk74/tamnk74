@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 29, 2021 00:42 (3 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Nov, 26, 2021 00:42 (34 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 30, 2021 00:42 (1 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Nov, 27, 2021 00:42 (32 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Named must your fear be before banish it you can.</b></p>
-<p><i>Yoda</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
