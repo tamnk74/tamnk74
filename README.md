@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Dec, 31, 2021 00:44 (0 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Nov, 28, 2021 00:44 (32 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jan, 01, 2022 00:44 (365 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Nov, 29, 2021 00:44 (386 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If I work as hard as I can, I wonder how much I can do in a day?</b></p>
-<p><i>Ezra Taft Benson</i></p>
+<p><b>You are very powerful, provided you know how powerful you are.</b></p>
+<p><i>Yogi Bhajan</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
