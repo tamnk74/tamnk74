@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jan, 06, 2022 00:48 (359 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Dec, 04, 2021 00:48 (380 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jan, 07, 2022 00:49 (358 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Dec, 05, 2021 00:49 (379 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
-<p><i>G. Kingsley Ward</i></p>
+<p><b>Winning isn&#39;t everything.. It&#39;s the only thing.</b></p>
+<p><i>Vincent van Gogh</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
