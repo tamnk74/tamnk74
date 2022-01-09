@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jan, 08, 2022 00:44 (358 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Dec, 06, 2021 00:44 (379 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jan, 09, 2022 00:46 (357 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Dec, 07, 2021 00:46 (378 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
-<p><i>Dale Carnegie</i></p>
+<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
