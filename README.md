@@ -95,8 +95,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jan, 19, 2022 00:40 (346 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Dec, 17, 2021 00:40 (368 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jan, 20, 2022 00:50 (345 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Dec, 18, 2021 00:50 (366 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
