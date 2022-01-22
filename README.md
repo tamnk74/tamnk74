@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jan, 21, 2022 00:40 (344 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Dec, 19, 2021 00:40 (366 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jan, 22, 2022 00:40 (344 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Dec, 20, 2021 00:40 (365 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.</b></p>
-<p><i>Larry Page</i></p>
+<p><b>A loser doesn&#39;t know what he&#39;ll do if he loses, but talks about what he&#39;ll do if he wins, and a winner doesn&#39;t talk about what he&#39;ll do if he wins, but knows what he&#39;ll do if he loses.</b></p>
+<p><i></i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
