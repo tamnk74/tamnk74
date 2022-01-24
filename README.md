@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jan, 23, 2022 00:41 (342 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Dec, 21, 2021 00:41 (364 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jan, 24, 2022 00:41 (342 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Dec, 22, 2021 00:41 (363 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The last time doesn&#39;t exist. It&#39;s only this time. And everything is going to be different this time. There&#39;s only now.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
