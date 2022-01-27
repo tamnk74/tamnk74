@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jan, 26, 2022 00:48 (340 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Dec, 24, 2021 00:48 (361 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jan, 27, 2022 00:42 (338 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Dec, 25, 2021 00:42 (359 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you can consciously let yourself get taken and see where you go, that&#39;s an exercise. That&#39;s discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
+<p><i>Greg Child</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
