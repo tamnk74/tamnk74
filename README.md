@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jan, 27, 2022 00:42 (338 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Dec, 25, 2021 00:42 (359 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jan, 28, 2022 00:42 (337 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Dec, 26, 2021 00:42 (359 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
-<p><i>Greg Child</i></p>
+<p><b>Some men see things as they are and say why.. I dream things that never were and say why not.</b></p>
+<p><i>George Bernard Shaw</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
