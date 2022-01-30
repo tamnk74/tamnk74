@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jan, 29, 2022 00:39 (336 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Dec, 27, 2021 00:39 (358 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jan, 30, 2022 00:42 (335 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Dec, 28, 2021 00:42 (357 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>People rise to the occasion without hesitation when they feel inspired and challenged.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
