@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jan, 30, 2022 00:42 (335 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Dec, 28, 2021 00:42 (357 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jan, 31, 2022 00:41 (334 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Dec, 29, 2021 00:41 (356 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When you win, say nothing. When you lose, say less.</b></p>
-<p><i>Paul Brown</i></p>
+<p><b>I am an optimist. It does not seem too much use being anything else..</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
