@@ -95,8 +95,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Feb, 08, 2022 00:45 (326 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jan, 08, 2022 00:45 (348 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Feb, 09, 2022 00:47 (325 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jan, 09, 2022 00:47 (346 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
