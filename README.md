@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Feb, 10, 2022 00:45 (324 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jan, 10, 2022 00:45 (346 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Feb, 11, 2022 00:49 (323 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jan, 11, 2022 00:49 (344 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Go confidently in the direction of your dreams. Live the life you&#39;ve imagined. As you simplify your life, the laws of the universe will be simpler.</b></p>
-<p><i>Henry David Thoreau</i></p>
+<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
+<p><i>Zaha Hadid</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
