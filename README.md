@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Feb, 20, 2022 00:52 (315 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jan, 20, 2022 00:52 (336 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Feb, 21, 2022 00:46 (313 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jan, 21, 2022 00:46 (335 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>A quitter never wins and a winner never quits</b></p>
-<p><i>Napoleon Hill</i></p>
+<p><b>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</b></p>
+<p><i>Isaac Lidsky</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
