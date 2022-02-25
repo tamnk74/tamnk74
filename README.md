@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Feb, 24, 2022 00:51 (310 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jan, 24, 2022 00:51 (332 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Feb, 25, 2022 00:51 (309 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jan, 25, 2022 00:51 (331 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>People who are crazy enough to think they can change the world, are the ones who do.</b></p>
-<p><i>Apple Computers</i></p>
+<p><b>By failing to prepare, you are preparing to fail.</b></p>
+<p><i>Benjamin Franklin</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
