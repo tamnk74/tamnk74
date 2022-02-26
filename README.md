@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Feb, 25, 2022 00:51 (309 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jan, 25, 2022 00:51 (331 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Feb, 26, 2022 00:46 (308 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jan, 26, 2022 00:46 (330 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>By failing to prepare, you are preparing to fail.</b></p>
-<p><i>Benjamin Franklin</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
