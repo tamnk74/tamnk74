@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Feb, 26, 2022 00:46 (308 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jan, 26, 2022 00:46 (330 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Feb, 27, 2022 00:51 (307 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jan, 27, 2022 00:51 (329 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
-<p><i>G. Kingsley Ward</i></p>
+<p><b>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</b></p>
+<p><i>Jack Ma</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
