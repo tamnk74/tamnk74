@@ -95,13 +95,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 03, 2022 00:53 (303 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Feb, 01, 2022 00:53 (324 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 04, 2022 00:56 (302 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Feb, 02, 2022 00:56 (324 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You make a living by what you earn; you make a life by what you give.</b></p>
+<p><b>Let our advance worrying become advance thinking and planning.</b></p>
 <p><i>Winston Churchill</i></p>
 
 <!--
