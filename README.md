@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Mar, 07, 2022 00:51 (299 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Feb, 05, 2022 00:51 (321 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Mar, 08, 2022 00:50 (298 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Feb, 06, 2022 00:50 (320 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.</b></p>
-<p><i>Anatoli Boukreev</i></p>
+<p><b>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</b></p>
+<p><i>Voltaire</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
