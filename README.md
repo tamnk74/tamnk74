@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Mar, 15, 2022 00:55 (292 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Feb, 13, 2022 00:55 (313 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Mar, 16, 2022 00:54 (291 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Feb, 14, 2022 00:54 (312 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your overnight success story is always a result of everything you have done in your life until that moment.</b></p>
-<p><i>Bel Pesce</i></p>
+<p><b>The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better</b></p>
+<p><i>Barbara Pletcher</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
