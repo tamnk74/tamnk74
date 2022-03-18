@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 17, 2022 00:53 (289 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Feb, 15, 2022 00:53 (311 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 18, 2022 01:00 (288 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Feb, 16, 2022 01:00 (310 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
-<p><i>John Muir</i></p>
+<p><b>I always advice people - Don&#39;t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can&#39;t possibly lose.</b></p>
+<p><i>Steve Jobs</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
