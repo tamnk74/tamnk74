@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Mar, 21, 2022 00:53 (285 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Feb, 19, 2022 00:53 (307 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Mar, 22, 2022 00:55 (285 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Feb, 20, 2022 00:55 (306 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Let our advance worrying become advance thinking and planning.</b></p>
-<p><i>Winston Churchill</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
