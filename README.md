@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Apr, 07, 2022 00:58 (269 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Mar, 07, 2022 00:58 (290 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Apr, 08, 2022 00:58 (267 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Mar, 08, 2022 00:58 (288 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</b></p>
-<p><i>Zaha Hadid</i></p>
+<p><b>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it&#39;s really silly to be afraid of a lack of photons. Then I wasn&#39;t afraid of the dark anymore after that.</b></p>
+<p><i>Elon Musk</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
