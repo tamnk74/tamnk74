@@ -95,13 +95,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Apr, 17, 2022 01:02 (258 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Mar, 17, 2022 01:02 (280 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Apr, 18, 2022 01:08 (258 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Mar, 18, 2022 01:08 (279 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</b></p>
+<p><b>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
