@@ -95,14 +95,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Apr, 25, 2022 00:58 (251 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Mar, 25, 2022 00:58 (272 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Apr, 26, 2022 01:06 (249 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Mar, 26, 2022 01:06 (271 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Do not be afraid to give up the good for the great.</b></p>
-<p><i>Kenny Rogers</i></p>
+<p><b>Those who know how to win are much more numerous than those who know how to make proper use of their victories</b></p>
+<p><i>Polybius</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
