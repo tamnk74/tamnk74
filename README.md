@@ -31,12 +31,14 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
+<div style="padding: 5px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnk74"/>
 </div>
 
-<div>
+<div style="padding: 5px">
   <img src="https://github-readme-stats.vercel.app/api?username=tamnk74&show_icons=true"/>
+</div>
 </div>
 
 <h3>Open source projects</h3>
@@ -103,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 01, 2022 03:02 (245 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 01, 2022 03:02 (266 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday May, 01, 2022 05:17 (244 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 01, 2022 05:17 (266 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
