@@ -32,11 +32,11 @@
 </p>
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnk74"><b>Top langs</b></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnk74"/>
 </div>
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=tamnk74&show_icons=true"><b>My Stats</b></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamnk74&show_icons=true"/>
 </div>
 
 <h3>Open source projects</h3>
@@ -103,8 +103,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 01, 2022 03:00 (245 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 01, 2022 03:00 (266 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday May, 01, 2022 03:02 (245 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 01, 2022 03:02 (266 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
