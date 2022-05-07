@@ -105,13 +105,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday May, 06, 2022 01:01 (240 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Apr, 06, 2022 01:01 (261 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday May, 07, 2022 01:01 (238 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Apr, 07, 2022 01:01 (260 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Excellence prospers in the absence of excuses.</b></p>
+<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
