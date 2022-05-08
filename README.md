@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday May, 07, 2022 01:01 (238 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Apr, 07, 2022 01:01 (260 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday May, 08, 2022 01:02 (238 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Apr, 08, 2022 01:02 (259 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
+<p><i>Henry Cloud</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
