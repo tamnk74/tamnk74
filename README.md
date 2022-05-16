@@ -105,13 +105,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 15, 2022 01:18 (230 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 15, 2022 01:18 (252 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday May, 16, 2022 01:09 (229 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Apr, 16, 2022 01:09 (251 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</b></p>
+<p><b>Remove the temptation to settle for anything short of what you deserve.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
