@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday May, 22, 2022 01:05 (223 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Apr, 22, 2022 01:05 (245 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday May, 23, 2022 01:02 (222 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Apr, 23, 2022 01:02 (244 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Climb the mountains and get their good tidings. Nature&#39;s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</b></p>
-<p><i>John Muir</i></p>
+<p><b>Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</b></p>
+<p><i> Daniel Coyle</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
