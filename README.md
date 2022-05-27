@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday May, 26, 2022 01:17 (219 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Apr, 26, 2022 01:17 (241 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday May, 27, 2022 01:06 (218 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Apr, 27, 2022 01:06 (239 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
