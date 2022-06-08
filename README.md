@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jun, 07, 2022 01:03 (207 days to New Year)</p>
-<p><b>Lunar date: </b> Monday May, 09, 2022 01:03 (229 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jun, 08, 2022 01:03 (207 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday May, 10, 2022 01:03 (228 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!</b></p>
-<p><i>Daireth Winehouse</i></p>
+<p><b>If you like what you do, and you&#39;re lucky enough to be good at it, do it for that reason.</b></p>
+<p><i>Phil Grimshaw</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
