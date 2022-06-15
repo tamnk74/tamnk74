@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jun, 14, 2022 01:18 (200 days to New Year)</p>
-<p><b>Lunar date: </b> Monday May, 16, 2022 01:18 (222 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jun, 15, 2022 01:11 (200 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday May, 17, 2022 01:11 (221 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I always advice people - Don&#39;t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can&#39;t possibly lose.</b></p>
-<p><i>Steve Jobs</i></p>
+<p><b>Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</b></p>
+<p><i>Arthur Ashe</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
