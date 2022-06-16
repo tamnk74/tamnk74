@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jun, 15, 2022 01:11 (200 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday May, 17, 2022 01:11 (221 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jun, 16, 2022 01:11 (198 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday May, 18, 2022 01:11 (219 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</b></p>
-<p><i>Arthur Ashe</i></p>
+<p><b>When you win, say nothing. When you lose, say less.</b></p>
+<p><i>Paul Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
