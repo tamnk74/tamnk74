@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jun, 24, 2022 01:07 (191 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday May, 26, 2022 01:07 (212 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jun, 25, 2022 01:09 (190 days to New Year)</p>
+<p><b>Lunar date: </b> Friday May, 27, 2022 01:09 (211 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>People who are crazy enough to think they can change the world, are the ones who do.</b></p>
-<p><i>Apple Computers</i></p>
+<p><b>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</b></p>
+<p><i>Voltaire</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
