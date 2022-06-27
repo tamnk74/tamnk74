@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jun, 26, 2022 01:14 (188 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday May, 28, 2022 01:14 (210 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jun, 27, 2022 01:16 (187 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday May, 29, 2022 01:16 (209 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Some men see things as they are and say why.. I dream things that never were and say why not.</b></p>
-<p><i>George Bernard Shaw</i></p>
+<p><b>You must be the change you want to see in the world..</b></p>
+<p><i>M.K. Gandhi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
