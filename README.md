@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jun, 30, 2022 01:09 (185 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jun, 02, 2022 01:09 (206 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jul, 01, 2022 01:20 (184 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jun, 03, 2022 01:20 (205 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>It isn&#39;t what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</b></p>
-<p><i>Dale Carnegie</i></p>
+<p><b>Winning isn&#39;t everything.. It&#39;s the only thing.</b></p>
+<p><i>Vincent van Gogh</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
