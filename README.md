@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jul, 06, 2022 01:22 (178 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jun, 08, 2022 01:22 (200 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jul, 07, 2022 01:17 (177 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jun, 09, 2022 01:17 (199 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, &#39;Damn. That really hurt, but this is important to me and I&#39;m going in again&#39;-my gut reaction is, &#39;What a badass.&#39;</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</b></p>
+<p><i> Daniel Coyle</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
