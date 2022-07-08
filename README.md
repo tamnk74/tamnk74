@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jul, 07, 2022 01:17 (177 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jun, 09, 2022 01:17 (199 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jul, 08, 2022 01:18 (176 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jun, 10, 2022 01:18 (198 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</b></p>
-<p><i> Daniel Coyle</i></p>
+<p><b>Let our advance worrying become advance thinking and planning.</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
