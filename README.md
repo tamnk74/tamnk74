@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jul, 11, 2022 01:17 (174 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jun, 13, 2022 01:17 (195 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jul, 12, 2022 01:20 (173 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jun, 14, 2022 01:20 (194 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You must be the change you want to see in the world..</b></p>
-<p><i>M.K. Gandhi</i></p>
+<p><b>Perfection is not attainable, but if we chase perfection we can catch excellence..</b></p>
+<p><i>Vince Lombardi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
