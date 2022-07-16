@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jul, 15, 2022 01:23 (170 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Jun, 17, 2022 01:23 (191 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jul, 16, 2022 01:17 (168 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Jun, 18, 2022 01:17 (190 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Remember that you are very special, no one can play your role better than you.</b></p>
-<p><i>Damayanti Patra</i></p>
+<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
+<p><i>Niccolo Machiavelli</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
