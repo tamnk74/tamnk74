@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jul, 16, 2022 01:17 (168 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jun, 18, 2022 01:17 (190 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jul, 17, 2022 01:24 (168 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jun, 19, 2022 01:24 (189 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
-<p><i>Niccolo Machiavelli</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
