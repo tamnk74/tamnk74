@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jul, 17, 2022 01:24 (168 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jun, 19, 2022 01:24 (189 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jul, 18, 2022 01:14 (166 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Jun, 20, 2022 01:14 (187 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
-<p><i>G. Kingsley Ward</i></p>
+<p><b>I know for sure that what we dwell on is who we become.</b></p>
+<p><i>Oprah Winfrey</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
