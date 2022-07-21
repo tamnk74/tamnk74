@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jul, 20, 2022 01:13 (165 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jun, 22, 2022 01:13 (186 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jul, 21, 2022 01:13 (164 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jun, 23, 2022 01:13 (185 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Never waste your time trying to explain who you are to people who are committed to misunderstanding you.</b></p>
-<p><i>Dream Hampton</i></p>
+<p><b>A quitter never wins and a winner never quits</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
