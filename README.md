@@ -96,7 +96,7 @@
     </tr>
   </tbody>
 </table>
-<a href="https://app.daily.dev/tamnk74"><img src="https://api.daily.dev/devcards/bfa761fe6d45474085315938c094ac99.png?r=xv2" width="400" alt="Tam Khắc's Dev Card"/></a>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/tamnk74" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jul, 24, 2022 01:21 (160 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Jun, 26, 2022 01:21 (182 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jul, 24, 2022 12:58 (161 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jun, 26, 2022 12:58 (182 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
