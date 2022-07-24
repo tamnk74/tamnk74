@@ -96,7 +96,7 @@
     </tr>
   </tbody>
 </table>
-
+<a href="https://app.daily.dev/tamnk74"><img src="https://api.daily.dev/devcards/bfa761fe6d45474085315938c094ac99.png?r=xv2" width="400" alt="Tam Khắc's Dev Card"/></a>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/tamnk74" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
