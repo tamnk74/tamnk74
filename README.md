@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Jul, 26, 2022 01:18 (159 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jun, 28, 2022 01:18 (180 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Jul, 27, 2022 01:21 (158 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jun, 29, 2022 01:21 (179 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Some men see things as they are and say why.. I dream things that never were and say why not.</b></p>
-<p><i>George Bernard Shaw</i></p>
+<p><b>Perfection is not attainable, but if we chase perfection we can catch excellence..</b></p>
+<p><i>Vince Lombardi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
