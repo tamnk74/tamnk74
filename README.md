@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Aug, 15, 2022 01:18 (138 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jul, 18, 2022 01:18 (159 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Aug, 16, 2022 01:21 (137 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jul, 19, 2022 01:21 (159 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Find a purpose in life so big it will challenge every capacity to be at your best.</b></p>
-<p><i>David O. McKay</i></p>
+<p><b>Do the best you can until you know better. Then when you know better, do better.</b></p>
+<p><i>Maya Angelou</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
