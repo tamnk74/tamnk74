@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Aug, 16, 2022 01:21 (137 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jul, 19, 2022 01:21 (159 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Aug, 17, 2022 01:23 (136 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jul, 20, 2022 01:23 (158 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Do the best you can until you know better. Then when you know better, do better.</b></p>
-<p><i>Maya Angelou</i></p>
+<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
+<p><i>Niccolo Machiavelli</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
