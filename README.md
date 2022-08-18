@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Aug, 17, 2022 01:23 (136 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jul, 20, 2022 01:23 (158 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Aug, 18, 2022 01:24 (135 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jul, 21, 2022 01:24 (157 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
-<p><i>Niccolo Machiavelli</i></p>
+<p><b>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</b></p>
+<p><i>Greg Child</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
