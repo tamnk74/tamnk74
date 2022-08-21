@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Aug, 20, 2022 01:14 (134 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jul, 23, 2022 01:14 (155 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 21, 2022 01:12 (132 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jul, 24, 2022 01:12 (154 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Perfection is not attainable, but if we chase perfection we can catch excellence..</b></p>
-<p><i>Vince Lombardi</i></p>
+<p><b>Winning is nice if you don&#39;t lose your integrity in the process.</b></p>
+<p><i>Arnold Horshak</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
