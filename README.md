@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Aug, 22, 2022 01:15 (131 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jul, 25, 2022 01:15 (153 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Aug, 23, 2022 01:37 (130 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jul, 26, 2022 01:37 (151 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>An aspirational diet will have you dreaming of success; but it&#39;s the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>You must be the change you want to see in the world..</b></p>
+<p><i>M.K. Gandhi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
