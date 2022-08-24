@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Aug, 23, 2022 01:37 (130 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Jul, 26, 2022 01:37 (151 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Aug, 24, 2022 01:22 (129 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Jul, 27, 2022 01:22 (150 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You must be the change you want to see in the world..</b></p>
-<p><i>M.K. Gandhi</i></p>
+<p><b>You make a living by what you earn; you make a life by what you give.</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
