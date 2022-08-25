@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Aug, 24, 2022 01:22 (129 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jul, 27, 2022 01:22 (150 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Aug, 25, 2022 01:25 (129 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jul, 28, 2022 01:25 (150 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You make a living by what you earn; you make a life by what you give.</b></p>
-<p><i>Winston Churchill</i></p>
+<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
+<p><i>Tom Hanks</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
