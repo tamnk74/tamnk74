@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Aug, 25, 2022 01:25 (129 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jul, 28, 2022 01:25 (150 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Aug, 26, 2022 01:21 (127 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jul, 29, 2022 01:21 (149 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>From now on we live in a world where man has walked on the Moon. It&#39;s not a miracle; we just decided to go.</b></p>
-<p><i>Tom Hanks</i></p>
+<p><b>The man who removes a mountain begins by carrying away small stones..</b></p>
+<p><i>Chinese Proverb</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
