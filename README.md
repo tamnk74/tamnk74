@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Aug, 31, 2022 01:51 (123 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Aug, 05, 2022 01:51 (144 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Sep, 01, 2022 01:14 (121 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Aug, 06, 2022 01:14 (143 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</b></p>
-<p><i>John Gardner</i></p>
+<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
+<p><i>Henry Cloud</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
