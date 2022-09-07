@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Sep, 06, 2022 01:43 (117 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Aug, 11, 2022 01:43 (138 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Sep, 07, 2022 01:41 (115 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Aug, 12, 2022 01:41 (137 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You gotta commit. You&#39;ve gotta go out there and improvise and you&#39;ve gotta be completely unafraid to die. You&#39;ve got to be able to take a chance to die. And you have to die lots. You have to die all the time.</b></p>
-<p><i>Bill Murray</i></p>
+<p><b>When it comes to winning, you need the skill and the will.</b></p>
+<p><i>Frank Tyger</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
