@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Sep, 08, 2022 01:24 (114 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Aug, 13, 2022 01:24 (136 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Sep, 09, 2022 01:27 (113 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Aug, 14, 2022 01:27 (135 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I know for sure that what we dwell on is who we become.</b></p>
-<p><i>Oprah Winfrey</i></p>
+<p><b>All courses of action are risky, so prudence is not in avoiding danger (it&#39;s impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</b></p>
+<p><i>Niccolo Machiavelli</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
