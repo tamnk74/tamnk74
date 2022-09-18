@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Sep, 17, 2022 01:23 (106 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Aug, 22, 2022 01:23 (127 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Sep, 18, 2022 01:44 (104 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 23, 2022 01:44 (125 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you&#39;re feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you&#39;ve done your best. Dare to be the best you can. At all times, Dare to be!</b></p>
-<p><i>Steve Maraboli</i></p>
+<p><b>Keep a positive mind. Remember, a failed attempt doesn&#39;t make you a failure-giving up does.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
