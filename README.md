@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Sep, 19, 2022 01:27 (104 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Aug, 24, 2022 01:27 (125 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Sep, 20, 2022 01:27 (102 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Aug, 25, 2022 01:27 (123 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
-<p><i>Martina Navratilova</i></p>
+<p><b>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it&#39;s really silly to be afraid of a lack of photons. Then I wasn&#39;t afraid of the dark anymore after that.</b></p>
+<p><i>Elon Musk</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
