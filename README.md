@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Sep, 21, 2022 01:51 (101 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Aug, 26, 2022 01:51 (123 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Sep, 22, 2022 01:23 (101 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Aug, 27, 2022 01:23 (122 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</b></p>
+<p><i>Sally Blount</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
