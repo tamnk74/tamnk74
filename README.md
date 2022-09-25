@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Sep, 24, 2022 01:27 (99 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Aug, 29, 2022 01:27 (120 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Sep, 25, 2022 01:25 (97 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 30, 2022 01:25 (119 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</b></p>
-<p><i>Barack Obama</i></p>
+<p><b>You must have a positive self perception in order to transcend anything.</b></p>
+<p><i>Steve Maraboli</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
