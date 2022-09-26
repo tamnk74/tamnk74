@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Sep, 25, 2022 01:25 (97 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Aug, 30, 2022 01:25 (119 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Sep, 26, 2022 01:28 (97 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Sep, 01, 2022 01:28 (118 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>You must have a positive self perception in order to transcend anything.</b></p>
-<p><i>Steve Maraboli</i></p>
+<p><b>Effort only fully releases its reward after a person refuses to quit.</b></p>
+<p><i>Napoleon Hill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
