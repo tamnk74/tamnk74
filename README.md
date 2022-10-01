@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Sep, 30, 2022 02:00 (92 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Sep, 05, 2022 02:00 (113 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 01, 2022 01:49 (91 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Sep, 06, 2022 01:49 (113 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Win any way as long as you can get away with it. Nice guys finish last.</b></p>
-<p><i>Leo Durocher</i></p>
+<p><b>Winning is not everything, but the effort to win is.</b></p>
+<p><i>Zig Ziglar</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
