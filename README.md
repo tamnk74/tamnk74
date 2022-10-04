@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Oct, 03, 2022 01:21 (90 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 08, 2022 01:21 (111 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Oct, 04, 2022 01:39 (89 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Sep, 09, 2022 01:39 (110 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, &#39;Damn. That really hurt, but this is important to me and I&#39;m going in again&#39;-my gut reaction is, &#39;What a badass.&#39;</b></p>
-<p><i>Brene Brown</i></p>
+<p><b>It isn&#39;t the mountains ahead to climb that wear you out; it&#39;s the pebble in your shoe.</b></p>
+<p><i>Mohamad Ali</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
