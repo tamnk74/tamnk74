@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 14, 2022 01:49 (78 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Sep, 19, 2022 01:49 (100 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 15, 2022 01:40 (77 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Sep, 20, 2022 01:40 (98 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning is nice if you don&#39;t lose your integrity in the process.</b></p>
-<p><i>Arnold Horshak</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
