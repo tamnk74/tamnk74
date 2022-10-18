@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Oct, 17, 2022 01:49 (76 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Sep, 22, 2022 01:49 (97 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Oct, 18, 2022 01:42 (74 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Sep, 23, 2022 01:42 (95 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
-<p><i>Henry Cloud</i></p>
+<p><b>If you like what you do, and you&#39;re lucky enough to be good at it, do it for that reason.</b></p>
+<p><i>Phil Grimshaw</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
