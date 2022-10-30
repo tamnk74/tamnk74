@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Oct, 30, 2022 01:27 (62 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Oct, 06, 2022 01:27 (83 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Oct, 30, 2022 02:35 (63 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Oct, 06, 2022 02:35 (84 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
