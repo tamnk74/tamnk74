@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Oct, 31, 2022 01:28 (61 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Oct, 07, 2022 01:28 (83 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 01, 2022 01:42 (61 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Oct, 08, 2022 01:42 (82 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn&#39;t rehearsal people. This is YOUR life.</b></p>
-<p><i>Dale Patridge</i></p>
+<p><b>Let our advance worrying become advance thinking and planning.</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
