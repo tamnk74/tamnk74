@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Nov, 21, 2022 01:14 (41 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Oct, 28, 2022 01:14 (62 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Nov, 22, 2022 01:13 (40 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Oct, 29, 2022 01:13 (61 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
