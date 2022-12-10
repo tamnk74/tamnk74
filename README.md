@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Dec, 09, 2022 01:01 (22 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Nov, 16, 2022 01:01 (44 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Dec, 10, 2022 00:57 (21 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Nov, 17, 2022 00:57 (42 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</b></p>
-<p><i>Voltaire</i></p>
+<p><b>Once your excuses are gone, you will simply have to settle for being awesome!</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
