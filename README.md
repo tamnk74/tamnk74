@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Dec, 10, 2022 00:57 (21 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Nov, 17, 2022 00:57 (42 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Dec, 11, 2022 01:06 (20 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Nov, 18, 2022 01:06 (42 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Once your excuses are gone, you will simply have to settle for being awesome!</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.</b></p>
+<p><i>Mohamad Ali</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
