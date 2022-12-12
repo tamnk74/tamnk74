@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Dec, 11, 2022 01:06 (20 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Nov, 18, 2022 01:06 (42 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Dec, 12, 2022 01:03 (20 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Nov, 19, 2022 01:03 (41 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.</b></p>
-<p><i>Mohamad Ali</i></p>
+<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
+<p><i>Henry Cloud</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
