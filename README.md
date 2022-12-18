@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Dec, 17, 2022 00:56 (14 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Nov, 24, 2022 00:56 (36 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Dec, 18, 2022 00:57 (14 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Nov, 25, 2022 00:57 (35 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your overnight success story is always a result of everything you have done in your life until that moment.</b></p>
-<p><i>Bel Pesce</i></p>
+<p><b>Your life does not get better by chance. It gets better by change.</b></p>
+<p><i>Jim Rohn</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
