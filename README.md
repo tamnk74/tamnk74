@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Dec, 19, 2022 00:55 (13 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Nov, 26, 2022 00:55 (34 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Dec, 20, 2022 00:59 (11 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Nov, 27, 2022 00:59 (33 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Where there is ruin, there is hope for a treasure.</b></p>
-<p><i>Rumi</i></p>
+<p><b>Win any way as long as you can get away with it. Nice guys finish last.</b></p>
+<p><i>Leo Durocher</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
