@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Dec, 20, 2022 00:59 (11 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Nov, 27, 2022 00:59 (33 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Dec, 21, 2022 00:55 (10 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Nov, 28, 2022 00:55 (32 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Win any way as long as you can get away with it. Nice guys finish last.</b></p>
-<p><i>Leo Durocher</i></p>
+<p><b>Failure is the condiment that gives success its flavor.</b></p>
+<p><i>Truman Capote</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
