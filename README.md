@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 21, 2022 00:55 (10 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Nov, 28, 2022 00:55 (32 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 22, 2022 00:58 (10 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Nov, 29, 2022 00:58 (31 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Failure is the condiment that gives success its flavor.</b></p>
-<p><i>Truman Capote</i></p>
+<p><b>Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.</b></p>
+<p><i>Veronica A. Shoffstall</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
