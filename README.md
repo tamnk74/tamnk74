@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Dec, 22, 2022 00:58 (10 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Nov, 29, 2022 00:58 (31 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Dec, 23, 2022 00:56 (8 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Dec, 01, 2022 00:56 (30 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.</b></p>
-<p><i>Veronica A. Shoffstall</i></p>
+<p><b>Whether you think you can or think you can&#39;t, you&#39;re right..</b></p>
+<p><i>Henry Ford</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
