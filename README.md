@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Dec, 24, 2022 00:53 (8 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Dec, 02, 2022 00:53 (29 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Dec, 25, 2022 01:00 (7 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Dec, 03, 2022 01:00 (28 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Find a purpose in life so big it will challenge every capacity to be at your best.</b></p>
-<p><i>David O. McKay</i></p>
+<p><b>Let our advance worrying become advance thinking and planning.</b></p>
+<p><i>Winston Churchill</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
