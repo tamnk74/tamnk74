@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Dec, 25, 2022 01:00 (7 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Dec, 03, 2022 01:00 (28 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Dec, 26, 2022 00:58 (5 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Dec, 04, 2022 00:58 (27 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Let our advance worrying become advance thinking and planning.</b></p>
-<p><i>Winston Churchill</i></p>
+<p><b>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
