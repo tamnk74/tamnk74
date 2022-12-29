@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 28, 2022 00:57 (4 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Dec, 06, 2022 00:57 (25 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 29, 2022 00:59 (3 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Dec, 07, 2022 00:59 (24 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it&#39;s really silly to be afraid of a lack of photons. Then I wasn&#39;t afraid of the dark anymore after that.</b></p>
-<p><i>Elon Musk</i></p>
+<p><b>He who is not courageous enough to take risks will accomplish nothing in life.</b></p>
+<p><i>Mohamad Ali</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
