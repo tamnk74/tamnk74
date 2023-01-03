@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jan, 02, 2023 00:58 (364 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Dec, 11, 2022 00:58 (404 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jan, 03, 2023 00:58 (363 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Dec, 12, 2022 00:58 (403 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Excellence prospers in the absence of excuses.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Remember that you are very special, no one can play your role better than you.</b></p>
+<p><i>Damayanti Patra</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
