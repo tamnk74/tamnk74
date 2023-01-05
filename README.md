@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jan, 04, 2023 00:59 (362 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Dec, 13, 2022 00:59 (402 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jan, 05, 2023 01:01 (360 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Dec, 14, 2022 01:01 (400 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Sustenance! Your health is always the best prescription.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</b></p>
+<p><i>Barack Obama</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
