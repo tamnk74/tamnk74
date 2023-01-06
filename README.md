@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jan, 05, 2023 01:01 (360 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Dec, 14, 2022 01:01 (400 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jan, 06, 2023 01:01 (359 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Dec, 15, 2022 01:01 (400 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</b></p>
-<p><i>Barack Obama</i></p>
+<p><b>Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It&#39;s something we call heart power. Once a man has made his commitment, nothing will stop him short of success.</b></p>
+<p><i>Vince Lombardi</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
