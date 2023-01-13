@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Jan, 12, 2023 01:01 (353 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Dec, 21, 2022 01:01 (394 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Jan, 13, 2023 01:01 (353 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Dec, 22, 2022 01:01 (393 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Winning is nice if you don&#39;t lose your integrity in the process.</b></p>
-<p><i>Arnold Horshak</i></p>
+<p><b>Winning is not everything, but the effort to win is.</b></p>
+<p><i>Zig Ziglar</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
