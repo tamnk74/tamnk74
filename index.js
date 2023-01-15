@@ -17,7 +17,7 @@ const getTimes = async () => {
     .month(0)
     .date(1);
   const lunarNewYear = moment()
-    .year(lunarDate.year() + 1)
+    .year(moment().lunar().year() + 1)
     .month(0)
     .date(1)
     .solar();
