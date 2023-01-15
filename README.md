@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jan, 14, 2023 00:57 (352 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Dec, 23, 2022 00:57 (392 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jan, 15, 2023 01:03 (350 days to New Year)</p>
+<p><b>Lunar date: </b> Saturday Dec, 24, 2022 01:03 (390 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</b></p>
-<p><i>Isaac Lidsky</i></p>
+<p><b>The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.</b></p>
+<p><i>Lorii Myers</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
