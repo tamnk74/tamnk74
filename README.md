@@ -105,13 +105,13 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Jan, 15, 2023 15:49 (351 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Dec, 24, 2022 15:49 (7 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Jan, 16, 2023 00:59 (349 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Dec, 25, 2022 00:59 (6 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.</b></p>
+<p><b>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.</b></p>
 <p><i>Lorii Myers</i></p>
 
 <!--
