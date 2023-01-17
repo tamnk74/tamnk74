@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jan, 16, 2023 00:59 (349 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Dec, 25, 2022 00:59 (6 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jan, 17, 2023 01:00 (349 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Dec, 26, 2022 01:00 (5 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.</b></p>
-<p><i>Lorii Myers</i></p>
+<p><b>Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.</b></p>
+<p><i>Napoleon Bonaparte</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
