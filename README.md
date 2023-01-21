@@ -105,14 +105,17 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Jan, 20, 2023 01:01 (345 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Dec, 29, 2022 01:01 (1 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Jan, 21, 2023 01:00 (344 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Dec, 30, 2022 01:00 (1 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.</b></p>
-<p><i>Mohamad Ali</i></p>
+<p><b>One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.</b></p>
+<p><i>Bruce Lee</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
