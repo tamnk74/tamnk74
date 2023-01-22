@@ -105,17 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jan, 21, 2023 01:00 (344 days to New Year)</p>
-<p><b>Lunar date: </b> Friday Dec, 30, 2022 01:00 (1 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jan, 22, 2023 01:03 (344 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jan, 01, 2023 01:03 (384 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.</b></p>
-<p><i>Bruce Lee</i></p>
+<p><b>Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.</b></p>
+<p><i>Henry David Thoreau</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
