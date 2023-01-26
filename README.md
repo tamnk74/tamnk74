@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jan, 25, 2023 00:58 (341 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jan, 04, 2023 00:58 (381 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jan, 26, 2023 00:59 (339 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jan, 05, 2023 00:59 (379 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>There&#39;s such a thin line between winning and losing.</b></p>
-<p><i>John R. Tunis</i></p>
+<p><b>Some men see things as they are and say why.. I dream things that never were and say why not.</b></p>
+<p><i>George Bernard Shaw</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
