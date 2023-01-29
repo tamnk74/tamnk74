@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Jan, 28, 2023 01:00 (338 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jan, 07, 2023 01:00 (378 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Jan, 29, 2023 01:05 (336 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jan, 08, 2023 01:05 (376 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Stop complaining. Start creating.</b></p>
-<p><i>Dale Patridge</i></p>
+<p><b>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</b></p>
+<p><i>G. Kingsley Ward</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
