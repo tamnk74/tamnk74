@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jan, 30, 2023 00:57 (335 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jan, 09, 2023 00:57 (376 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jan, 31, 2023 01:03 (334 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jan, 10, 2023 01:03 (374 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</b></p>
-<p><i>Sally Blount</i></p>
+<p><b>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</b></p>
+<p><i>Charles F. Kettering</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
