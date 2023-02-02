@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Feb, 01, 2023 01:08 (333 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Jan, 11, 2023 01:08 (374 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Feb, 02, 2023 01:01 (332 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Jan, 12, 2023 01:01 (373 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</b></p>
-<p><i>Arthur Ashe</i></p>
+<p><b>When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, &#39;Damn. That really hurt, but this is important to me and I&#39;m going in again&#39;-my gut reaction is, &#39;What a badass.&#39;</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
