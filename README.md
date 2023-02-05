@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Feb, 04, 2023 00:59 (331 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Jan, 14, 2023 00:59 (371 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Feb, 05, 2023 01:05 (329 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Jan, 15, 2023 01:05 (370 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.</b></p>
-<p><i>Christiane Northrup</i></p>
+<p><b>Don&#39;t use all-or-nothing thinking. Take each day as its own day, and don&#39;t worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</b></p>
+<p><i>Henry Cloud</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
