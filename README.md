@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Feb, 06, 2023 00:58 (328 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jan, 16, 2023 00:58 (369 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Feb, 07, 2023 01:00 (328 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jan, 17, 2023 01:00 (368 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Even if you&#39;re on the right track, you&#39;ll get run over if you just sit there..</b></p>
-<p><i>Will Rogers</i></p>
+<p><b>Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.</b></p>
+<p><i>Veronica A. Shoffstall</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
