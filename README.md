@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 23, 2023 00:57 (284 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Feb, 02, 2023 00:57 (324 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 24, 2023 00:57 (282 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Feb, 03, 2023 00:57 (323 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>If you don&#39;t give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</b></p>
-<p><i>Jack Ma</i></p>
+<p><b>The tennis ball doesn&#39;t know how old I am. The ball doesn&#39;t know if I&#39;m a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</b></p>
+<p><i>Martina Navratilova</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
