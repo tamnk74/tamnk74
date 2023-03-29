@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Tuesday Mar, 28, 2023 01:00 (279 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Feb, 07, 2023 01:00 (319 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Wednesday Mar, 29, 2023 01:04 (277 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Feb, 08, 2023 01:04 (318 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Do the best you can until you know better. Then when you know better, do better.</b></p>
-<p><i>Maya Angelou</i></p>
+<p><b>Your time is limited, so don&#39;t waste it living someone else&#39;s life. Don&#39;t be trapped by dogma - which is living with the results of other people&#39;s thinking. Don&#39;t let the noise of other&#39;s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</b></p>
+<p><i>Steve Jobs</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
