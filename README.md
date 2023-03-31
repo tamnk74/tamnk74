@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Mar, 30, 2023 00:59 (276 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Feb, 09, 2023 00:59 (317 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Mar, 31, 2023 01:00 (275 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Feb, 10, 2023 01:00 (316 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>Don&#39;t be afraid of losing, be afraid of playing a game and not learning something.</b></p>
-<p><i>Dan Heisman</i></p>
+<p><b>Vulnerability is not winning or losing; it&#39;s having the courage to show up and be seen when we have no control over the outcome.</b></p>
+<p><i>Brene Brown</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
