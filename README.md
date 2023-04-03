@@ -105,14 +105,14 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Apr, 02, 2023 00:59 (274 days to New Year)</p>
-<p><b>Lunar date: </b> Sunday Feb, 12, 2023 00:59 (314 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Monday Apr, 03, 2023 00:55 (273 days to New Year)</p>
+<p><b>Lunar date: </b> Monday Feb, 13, 2023 00:55 (313 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
 
-<p><b>I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.</b></p>
-<p><i>Anatoli Boukreev</i></p>
+<p><b>I always advice people - Don&#39;t wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can&#39;t possibly lose.</b></p>
+<p><i>Steve Jobs</i></p>
 
 <!--
 **tamnk74/tamnk74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
