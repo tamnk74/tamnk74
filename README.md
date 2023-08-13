@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Saturday Aug, 12, 2023 00:45 (142 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Jun, 26, 2023 00:45 (182 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Aug, 13, 2023 00:49 (140 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Jun, 27, 2023 00:49 (181 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
