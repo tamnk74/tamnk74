@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Oct, 27, 2023 00:48 (65 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Sep, 13, 2023 00:48 (105 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Oct, 28, 2023 00:47 (64 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Sep, 14, 2023 00:47 (105 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
