@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Dec, 27, 2023 00:50 (4 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Nov, 15, 2023 00:50 (45 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Dec, 28, 2023 00:50 (3 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Nov, 16, 2023 00:50 (44 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
