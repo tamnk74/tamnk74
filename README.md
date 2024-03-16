@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Mar, 15, 2024 00:50 (292 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Feb, 06, 2024 00:50 (320 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Mar, 16, 2024 00:48 (290 days to New Year)</p>
+<p><b>Lunar date: </b> Wednesday Feb, 07, 2024 00:48 (318 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
