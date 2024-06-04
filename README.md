@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Monday Jun, 03, 2024 00:56 (211 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Apr, 27, 2024 00:56 (239 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Tuesday Jun, 04, 2024 00:55 (210 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Apr, 28, 2024 00:55 (238 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
