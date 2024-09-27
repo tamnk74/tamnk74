@@ -105,8 +105,8 @@
 </p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Sep, 26, 2024 01:05 (97 days to New Year)</p>
-<p><b>Lunar date: </b> Saturday Aug, 24, 2024 01:05 (125 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Sep, 27, 2024 01:05 (95 days to New Year)</p>
+<p><b>Lunar date: </b> Sunday Aug, 25, 2024 01:05 (123 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
