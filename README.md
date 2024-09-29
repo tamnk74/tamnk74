@@ -73,12 +73,12 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/tamnk74" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://ko-fi.com/tamkhac" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 <p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Sep, 29, 2024 02:39 (93 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Aug, 27, 2024 02:39 (122 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Sep, 29, 2024 02:46 (94 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 27, 2024 02:46 (122 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
