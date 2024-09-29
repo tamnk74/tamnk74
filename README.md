@@ -1,10 +1,36 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+![👋 Hi, my name is Tam](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
 
-<p>Welcome to my page! </br> I'm Nguyen Khac Tam, a software engineer. Currently, I'm working as a fullstack developer and living in <img src="https://image.flaticon.com/icons/svg/555/555515.svg" width="13"/> <b>Da Nang, VietNam</b></p>
+![Profile views](https://komarev.com/ghpvc/?username=tamnk74&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Tam
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/tamnk74" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.linkedin.com/in/tam-nguyen-khac-33385315a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://medium.com/@khac.tam.94" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring somethings new**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, Postgresql and RESTful APIs**
+- ⚡ Hobbies: **🎢 Badminton, table tennis**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-43853d?color=%2300ADD8&label=Golang&logo=Go&logoColor=White&style=social" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Express js" src="https://img.shields.io/badge/-Expressjs-43853f?style=flat-square&logo=Node.js&logoColor=white" />
@@ -29,84 +55,30 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tamnk74&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=tamnk74&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-<div style="padding: 5px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnk74"/>
-</div>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamnk74&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tamnk74&repo=nestjs-boilerplate&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tamnk74&repo=go-fiber-gorm-mysql-boilerplate&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tamnk74&repo=blog-react&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-<div style="padding: 5px">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamnk74&show_icons=true"/>
-</div>
-</div>
+ **<h3 align="left">Support Me</h3>**
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-      <td><b> Demo</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/tamnk74/nestjs-boilerplate"><b>Nestjs Postgresql Boilerplate</b></a></td>
-      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/nestjs-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tamnk74/go-fiber-gorm-mysql-boilerplate"><b>Go Fiber Mysql Boilerplate</b></a></td>
-      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/go-fiber-gorm-mysql-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tamnk74/expressjs_mongodb_boilerplate"><b>Express Mongodb Boilerplate</b></a></td>
-      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/expressjs_mongodb_boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tamnk74/blog-react"><b>Reactjs Sample</b></a></td>
-      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/blog-react?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tamnk74/nuxtjs-blog"><b>Nuxtjs Sample</b></a></td>
-      <td><img alt="Stars" src=https://img.shields.io/github/stars/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tamnk74/nuxtjs-blog?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://tamnk74.github.io/" target="_blank">Demo</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>Where to find me</h3>
+<p align="left"><a href="https://ko-fi.com/tamnk74" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 <p>
-  <a href="https://github.com/tamnk74" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/tam-nguyen-khac-33385315a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@khac.tam.94" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Sunday Sep, 29, 2024 02:37 (93 days to New Year)</p>
-<p><b>Lunar date: </b> Tuesday Aug, 27, 2024 02:37 (121 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Sunday Sep, 29, 2024 02:39 (93 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Aug, 27, 2024 02:39 (122 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
