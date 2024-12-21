@@ -77,8 +77,8 @@
 <p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Friday Dec, 20, 2024 01:06 (11 days to New Year)</p>
-<p><b>Lunar date: </b> Wednesday Nov, 20, 2024 01:06 (40 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Saturday Dec, 21, 2024 01:05 (11 days to New Year)</p>
+<p><b>Lunar date: </b> Thursday Nov, 21, 2024 01:05 (39 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
