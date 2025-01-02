@@ -77,8 +77,8 @@
 <p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Wednesday Jan, 01, 2025 01:12 (364 days to New Year)</p>
-<p><b>Lunar date: </b> Monday Dec, 02, 2024 01:12 (27 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Thursday Jan, 02, 2025 01:05 (364 days to New Year)</p>
+<p><b>Lunar date: </b> Tuesday Dec, 03, 2024 01:05 (27 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
