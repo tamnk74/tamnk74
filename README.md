@@ -77,8 +77,8 @@
 <p>
 
 <h3>Times</h3>
-<p><b>Solar date: </b> Thursday Feb, 06, 2025 01:06 (329 days to New Year)</p>
-<p><b>Lunar date: </b> Thursday Jan, 09, 2025 01:06 (376 days to Lunar New Year)</p>
+<p><b>Solar date: </b> Friday Feb, 07, 2025 01:06 (328 days to New Year)</p>
+<p><b>Lunar date: </b> Friday Jan, 10, 2025 01:06 (375 days to Lunar New Year)</p>
 
 
 <h3>Today's Quote</h3>
